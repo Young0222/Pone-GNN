@@ -61,7 +61,6 @@ Selected `nDCG@10` from the paper:
 │   ├── util.py
 │   ├── run.sh
 │   └── ml-1m/
-└── paper.pdf
 ```
 
 ## ⚙️ Requirements
